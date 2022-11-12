@@ -5,8 +5,6 @@
 - HTML
 - CSS
 - Javascript
-- React
-- Node
 
 ## Deployment
 
